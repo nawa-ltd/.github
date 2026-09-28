@@ -17,7 +17,7 @@ Build your store by describing it, sell with cash on delivery and WhatsApp, and 
 |---|---|
 | **Nawa AI** | Tell it about your shop in Arabic or English and it builds and edits your storefront, products, offers and pages, with you approving every change. |
 | **Storefront** | Fast, mobile-first shops with Arabic (RTL) and English, cash on delivery, WhatsApp ordering and local delivery zones. |
-| **Nawa app** | The merchant app for iOS and Android: products, orders, customers and AI product photos from your phone. |
+| **Nawa app** | The merchant app for iOS and Android: snap a product photo and AI writes the listing, then manage orders, customers and delivery from your phone. |
 | **Nawa POS** | An offline-first point of sale for shops and supermarkets that keeps selling when the internet drops and syncs when it's back. |
 
 ### Built for how the region sells
